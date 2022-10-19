@@ -14,5 +14,6 @@ public class ThreadNameExample {
 		threadB.start();
 		
 		//졸업시험 공부중 
+		//졸업시험 공부 열심히 하자!!
 	}
 }
