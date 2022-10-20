@@ -15,5 +15,6 @@ public class ThreadNameExample {
 		
 		//졸업시험 공부중 
 		//졸업시험 공부 열심히 하자!!
+		//졸업시험 파이팅 ㅠㅠ
 	}
 }
