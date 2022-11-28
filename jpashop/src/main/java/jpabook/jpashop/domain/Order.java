@@ -13,6 +13,8 @@ public class Order {
     @Column(name = "MEMBER_ID")
     private Long memberId;
 
+    private Member member;
+
     private LocalDateTime orderDate;
     @Enumerated(EnumType.STRING) //ORDINAL 쓰면 안되고 Enum 선언시 사용해야함
     private OrderStatus status;
